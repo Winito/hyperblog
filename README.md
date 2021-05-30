@@ -13,9 +13,6 @@ En dicho curso se hace seguimiento de diferentes temáticas como:
 * Revisión de Pull Request con GitHub.
 
 *En el curso se cubre varios aspectos que se ven en un entorno de desarrollo cotidiano y cubre aspectos por la solución de problemas que pueden presentarse en un flujo de trabajo.*
-<div align='center'>
-    <img src='./resources/git.png'>
-    <p>Historial de Comits en repositorios</p>
-</div>
+
 
 Se simula la elaboración de un Blog para trabajar todas las funcionalidades posibles ofrecidas por Git y las posibles situaciones que suelen presentarse y como solucionarlas mediante esta herramienta.
